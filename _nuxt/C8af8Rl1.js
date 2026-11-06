@@ -1,1 +1,0 @@
-import{i as o,o as s,c as r,M as n}from"./C5d4-Upk.js";const t={};function c(e,a){return s(),r("ol",null,[n(e.$slots,"default")])}const _=Object.assign(o(t,[["render",c]]),{__name:"ProseOl"});export{_ as default};
