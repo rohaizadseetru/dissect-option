@@ -1,1 +1,0 @@
-import{_ as t}from"./DNKS3i54.js";import{i as n,o as s,c,b as a,N as r,f as _}from"./Dn9HKeMH.js";import"./npPTDYOp.js";const l={},i={class:"flex min-h-screen flex-col"},d={id:"main-content",tabindex:"-1",class:"flex-1"};function f(e,m){const o=t;return s(),c("div",i,[a("main",d,[r(e.$slots,"default")]),_(o)])}const h=n(l,[["render",f]]);export{h as default};
