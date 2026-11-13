@@ -1,1 +1,0 @@
-import{j as e,O as a}from"./CQOKzI8r.js";function i(n){function o(){n(window.location.hash)}e(()=>{window.location.hash&&n(window.location.hash),window.addEventListener("hashchange",o)}),a(()=>window.removeEventListener("hashchange",o))}export{i as u};
